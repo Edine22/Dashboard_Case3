@@ -1,0 +1,41 @@
+Package                       Version
+----------------------------- --------------------
+anaconda-client==1.9.0
+anaconda-navigator==2.2.0
+anaconda-project==0.10.2
+conda==4.14.0
+conda-build==3.21.8
+conda-content-trust==0+unknown
+conda-pack==0.6.0
+conda-package-handling==1.8.1
+conda-repo-cli==1.0.4
+conda-token==0.3.0
+conda-verify==3.4.2
+gitdb==4.0.9
+GitPython==3.1.27
+json5 ==0.9.6
+jsonschema==4.4.0
+jupyter==1.0.0
+jupyter-client==6.1.12
+jupyter-console ==6.4.0
+jupyter-core==4.9.2
+jupyter-server==1.13.5
+jupyterlab==3.3.2
+jupyterlab-pygments==0.1.2
+jupyterlab-server==2.10.3
+jupyterlab-widgets==1.0.0
+matplotlib==3.5.1
+matplotlib-inline==0.1.2
+notebook==6.4.8
+numpy==1.21.5
+numpydoc==1.2
+pandas==1.4.2
+pandocfilters==1.5.0
+pip==21.2.4
+pipreqs==0.4.11
+plotly==5.6.0
+requests==2.27.1
+requests-file==1.5.1
+seaborn==0.11.2
+streamlit==1.13.0
+ujson==5.1.0
